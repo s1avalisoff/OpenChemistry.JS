@@ -27,10 +27,7 @@ header div.title {
 .container {
     background-color: #F0F0F0;
     align-items: center;
-}
-.container p {
-    padding-top: 2px;
-    padding-bottom: 2px;
+    text-padding: 5px;
 }
 .container .subcontainer {
     background-color: #DBDBDB;
